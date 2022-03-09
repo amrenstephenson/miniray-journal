@@ -1,5 +1,6 @@
 # Log Entry 0 - (9 March 2022)
 [![Image of a ray traced sphere.](https://upload.wikimedia.org/wikipedia/commons/5/56/POV-Ray_przyklad.jpg)](https://commons.wikimedia.org/wiki/File:POV-Ray_przyklad.jpg)
+
 \[Image credit: [Semu](https://en.wikipedia.org/wiki/pl:User:Semu)]
 
 ## What are my objectives?
