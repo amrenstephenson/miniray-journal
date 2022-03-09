@@ -1,5 +1,6 @@
 # Log Entry 0 - (9 March 2022)
 [![Image of a ray traced sphere.](https://upload.wikimedia.org/wikipedia/commons/5/56/POV-Ray_przyklad.jpg)](https://commons.wikimedia.org/wiki/File:POV-Ray_przyklad.jpg)
+\[Image credit: [Semu](https://en.wikipedia.org/wiki/pl:User:Semu)]
 
 ## What are my objectives?
 Overall, I want to learn about the implementation of ray-based [rendering](https://en.wikipedia.org/wiki/Rendering_(computer_graphics)) algorithms and computer graphics in general. I'm interested in this because, while I have created many 3D games, I have never written the rendering code myself. As such, rendering has often remained a mysterious "black box" where you send in [3D models](https://en.wikipedia.org/wiki/3D_modeling#Models) and get images back, and my hope is that this will give me the opportunity to peek inside said box.
