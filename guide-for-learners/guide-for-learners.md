@@ -38,7 +38,7 @@ The second prerequisite is a basic understanding of [vector](<https://en.wikiped
 
 ## What are some useful learning resources?
 
-![Image of an open book.](https://upload.wikimedia.org/wikipedia/commons/f/f9/Aufgeschlagenes_Buch_--_2020_--_4204.jpg)
+![Image of an open book.](images/open-book.jpg)
 
 <span style="opacity: 0.7"><a href="/wiki/User:XRay" title="User:XRay">Dietmar Rabich</a>&nbsp;/ <a href="/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>&nbsp;/ <span class="plainlinks noprint"><a class="external text" href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aufgeschlagenes_Buch_--_2020_--_4204.jpg/800px-Aufgeschlagenes_Buch_--_2020_--_4204.jpg">“Aufgeschlagenes Buch -- 2020 -- 4204”</a></span>&nbsp;/ <span class="plainlinks noprint"><a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/">CC&nbsp;BY-SA&nbsp;4.0</a></span></span>
 
