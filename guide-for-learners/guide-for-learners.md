@@ -3,6 +3,7 @@
 ## Why should I bother learning about it?
 
 ![Image of two ray traced spheres in a box.](https://upload.wikimedia.org/wikipedia/commons/0/0e/Box_-_Path_Tracing_High.png)
+
 <span style="opacity: 0.7"><a href="https://commons.wikimedia.org/wiki/File:Box_-_Path_Tracing_High.png">ThKa (Thomas Kabir)</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/de/deed.en">CC BY-SA 2.0 DE</a>, via Wikimedia Commons</span>
 
 Firstly, because the results can be stunningly lifelike and beautiful. I remember seeing [this demo](https://youtu.be/hTf1otkzTz4) (an absolute must-watch) for the first time and being taken back by how realistic it looked. My brain could not decipher the difference between reality and artistry. I would argue that this is a sufficient reason alone to pursue this, simply because there is an immense joy in creating extremely detailed simulations, often with staggeringly little code.
@@ -14,6 +15,7 @@ Lastly, ray tracing provides an ideal project for those wishing to try their han
 ## Who is this guide really for?
 
 ![Black and white image of a silhouette in a tunnel.](https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Photographer.jpg)
+
 <span style="opacity: 0.7"><a href="https://commons.wikimedia.org/wiki/File:The_Photographer.jpg">Joaquim Alves Gaspar</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons</span>
 
 This guide is aimed at anyone interested in coding a [ray tracing](<https://en.wikipedia.org/wiki/Ray_tracing_(graphics)>) engine from a beginner ("I have no idea what ray tracing even is") perspective. It is geared towards allowing you to explore key concepts on your own, and I've tried to avoid giving spoon-fed solutions. The idea is that you can read around the subject before coming up with your own unique solution.
@@ -37,6 +39,7 @@ The second prerequisite is a basic understanding of [vector](<https://en.wikiped
 ## What are some useful learning resources?
 
 ![Image of an open book.](https://upload.wikimedia.org/wikipedia/commons/f/f9/Aufgeschlagenes_Buch_--_2020_--_4204.jpg)
+
 <span style="opacity: 0.7"><a href="/wiki/User:XRay" title="User:XRay">Dietmar Rabich</a>&nbsp;/ <a href="/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>&nbsp;/ <span class="plainlinks noprint"><a class="external text" href="https://commons.wikimedia.org/wiki/File:Aufgeschlagenes_Buch_--_2020_--_4204.jpg">“Aufgeschlagenes Buch -- 2020 -- 4204”</a></span>&nbsp;/ <span class="plainlinks noprint"><a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/">CC&nbsp;BY-SA&nbsp;4.0</a></span></span>
 
 **The Ray Tracing Essentials YouTube Series by NVIDIA**
@@ -74,6 +77,7 @@ If you are interested in the code that I produced with my friends, then you can 
 ## How useful is ray tracing as a skill, and are simlar skills?
 
 ![Image of a sketched wighing scale.](https://upload.wikimedia.org/wikipedia/commons/c/c8/Sch%C3%BCtte_%26_P%C3%B6ppe_Fabrik_hauswirtschaftlicher_Maschinen_Hannover-Linden_Rechnung_1909-01-16_R%C3%BCckseite_Detail_IIIII.jpg)
+
 <span style="opacity: 0.7"><a href="https://commons.wikimedia.org/wiki/File:Sch%C3%BCtte_%26_P%C3%B6ppe_Fabrik_hauswirtschaftlicher_Maschinen_Hannover-Linden_Rechnung_1909-01-16_R%C3%BCckseite_Detail_IIIII.jpg">differents</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, via Wikimedia Commons</span>
 
 Overall, since its [inception in 1968](<https://en.wikipedia.org/wiki/Ray_tracing_(graphics)#History>), there is no doubt that computer simulated ray tracing has been too slow compared to rasterisation for the majority of use cases. However, with the constantly growing advances in graphics card technologies, it is clear that ray tracing has made a comeback. We have now reached the stage where [full scenes can be rendered in real time](https://www.geeks3d.com/20210419/nvidia-rtx-tech-demo-the-attic-ray-tracing-unreal-engine/)! I think that it's safe to say that, due to this, ray tracing has a growing number of exciting and in-demand applications.
